@@ -326,3 +326,27 @@ body {
     font-size: 2.5vw;
   }
 }
+
+@media (max-width: 350px) {
+  p{
+    font-size: 2.8vw;
+  }
+}
+
+@media (max-width: 300px) {
+  p{
+    font-size: 3.2vw;
+  }
+}
+
+@media (max-width: 250px) {
+  p{
+    font-size: 3.6vw;
+  }
+}
+
+@media (max-width: 200px) {
+  p{
+    font-size: 4vw;
+  }
+}
